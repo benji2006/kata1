@@ -1,0 +1,19 @@
+{
+    "title": "Benjis first course",
+    "description": "docker stuff",
+    "difficulty": "beginner",
+    "time": "10-15 minutes",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "courseData": "courseBase.sh",
+            "credits": ""
+        }	
+    },
+
+    "environment": {
+        "uilayout": "terminal",
+        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    }
+	
+}	
