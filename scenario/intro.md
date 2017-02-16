@@ -1,0 +1,1 @@
+This scenario explains the different aspects of launching  docker
